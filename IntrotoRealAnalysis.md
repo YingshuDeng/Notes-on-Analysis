@@ -44,13 +44,24 @@ If a relation is reflexive, symmetric, and transitive, then it is said to be an 
 ## The power set of A, 
 The power set of A is all subsets of A,
 
-# The definition of an ordered set, 
+## The definition of an ordered set, 
 The definition of bounded above, bounded below, supremum and infimum.
 
+## Definition of a field,
+We also require our real numbers to have many algebraic properties. In particular, we require that they are a field. 
 
+What is a ordered field?
 
+## Complex number
+Complex number is denoted by $C$, 
 
+and $x+iy$, where x and y are real numbers, and i is the imaginary number, a number such that $i^2 = −1$.
 
+## The set of real numbers
+
+We mentioned already that R contains elements that are not in Q because of the least-upperbound property.
+
+Irrational Numbers is the R\Q,
 
 
 
