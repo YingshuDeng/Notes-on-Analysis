@@ -63,6 +63,47 @@ We mentioned already that R contains elements that are not in Q because of the l
 
 Irrational Numbers is the R\Q,
 
+## Define infinite-
+## Maxima and minima
+
+definition of Maxima and minima,
+max and min are generally used to emphasize that the supremum or infimum is in the set itself.
+
+## Absolute value
+## triangle inequality:
+$|x+y|\geq |x|+|y|$,
+
+## Definition of a bounded function,
+Suppose f : D → R is a function. We say f is bounded if there exists a number M such that $|f(x)| ≤ M$ for all $x ∈ D$.
+
+## The definition of interval and size of $R$,
+$[a,b] := {x ∈ R : a ≤ x ≤ b}$
+
+## Decimal representation for the reals, 重新看，难！
+
+## Sequences and limits,
+Sequences and boundness of sequence,
+
+
+A sequence ${x_{n}}$ is bounded if there exists a $B ∈ R$ such that:
+
+$|x_{n}| \leq B$ for all N,
+
+a limit of a sequence: the definition of a limit of a sequence. A sequence that converges is said to be convergent. Otherwise, we say the sequence diverges or that it is divergent.
+
+When we write $lim xn = x$ for some real number x, we are saying two things: first, that ${xn}$ is convergent, and second, that the limit is x.
+
+## A convergent sequence has a unique limit，
+## A convergent sequence {xn} is bounded，
+The converse does not hold. A bounded sequence is not necessarily convergent. For example, with the sequence $(-1)^{n}$,
+
+##  Monotone sequences and converges,
+
+## Tail of a sequence,
+The beginning of the sequence may be arbitrary.
+
+
+
 
 
 
