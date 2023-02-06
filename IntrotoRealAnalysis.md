@@ -109,6 +109,8 @@ Limits, when they exist, preserve non-strict inequalities.
 Moreover, you cannot replace all the nonstrict inequalities with strict inequalities.
 
 ## Continuity of algebraic operations,
+Limits interact with algebraic operations nicely.
+
 
 
 ## Recursively defined sequences,
@@ -116,10 +118,44 @@ Moreover, you cannot replace all the nonstrict inequalities with strict inequali
 sequence where the next number in the sequence is computed using a formula from a fixed number of preceding elements in the sequences,
 
 ## Newton's method,
+Before taking any limits, you must make sure the sequence converges,
 
 ## Some convergence tests,
-
+ The ratio test for sequences,
+ 
+ $L=lim_{n->\infty} \frac{x_{n+1}}{x_n}$, 
+ 
+      
 ## Limit superior, limit inferior and BW theorem,
+Define the sequences ${a_n}$ and $b_{n}$ by:
+
+$a_{n}:sup{x_k: k\geq n}$,
+
+$b_{n}:inf{x_k: k\geq n}$,
+
+$a_{n}$ is bounded decreasing and $$b_{n}$ is bounded increasing,
+
+
+
+## Cauchy sequences
+
+A sequences $x_{n}$ is cauchy sequence if for every $\epsilon>0 $ there exists an M such that $n\geq M$ and $k\geq M$, we have:
+$|x_{n}-x_{k}|< \epsilon$,
+
+
+Being Cauchy implies that the term of the sequences are eventually all arbitrally close to each other,
+A sequence of real number is Cauchy if and only if it converges,
+
+1) A cauchy sequence is bounded,
+2) A sequence of real number is Cauchy if and only if it converges,
+3) A set is Cauchy complete if every Cauchy sequence converges,
+
+The Cauchy criterion is stronger than 
+ $lim_{n->\infty} x_{n+j} - x_n =0$, 
+
+Since the key point the definition of Cauchy is that $n$ and $K$ vary independently and can be arbitrarily apart.
+
+
 
 
 
