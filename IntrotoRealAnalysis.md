@@ -103,18 +103,24 @@ The converse does not hold. A bounded sequence is not necessarily convergent. Fo
 The beginning of the sequence may be arbitrary.
 
 
+## Squeeze lemma 
+page 56 to 57
+Limits, when they exist, preserve non-strict inequalities.
+Moreover, you cannot replace all the nonstrict inequalities with strict inequalities.
+
+## Continuity of algebraic operations,
+
+
+## Recursively defined sequences,
+
+sequence where the next number in the sequence is computed using a formula from a fixed number of preceding elements in the sequences,
+
+## Newton's method,
+
+## Some convergence tests,
+
+## Limit superior, limit inferior and BW theorem,
 
 
 
-
-
-Complex number $C$,
-
-Let F be an ordered field with the least-upper-bound property. Let A ⊂ F be a nonempty set that is bounded below. Then inf A exists.
-
-The set of real numbers,
-
-Archimedean property and Q is dense in R,
-
-Using supremum and infimum，
-
+## 
