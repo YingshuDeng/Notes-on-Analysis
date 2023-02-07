@@ -156,6 +156,40 @@ The Cauchy criterion is stronger than
 Since the key point the definition of Cauchy is that $n$ and $K$ vary independently and can be arbitrarily apart.
 
 
+## The Basic properties of converget series,
+The definition of absolute convergence,
+
+the series $∑xn$ converges absolutely, then it converges,
+
+Even so, the limit of $∑xn$ and $|∑xn|$ are generally different,
+
+Absolutely convergent series have many wonderful properties,
+
+
+## Comparison test and the p-seires,
+
+P-test of series, for p within any real number, the series 
+$\sum_{1}^{\infty} \frac {1}{n^p}$ converges if and only if $p>1$,
+
+Neither the p-series test nor the comparison test tell us what the sum converges to, and they only tell us that a limit of the partial sum exists,
+
+## Ratio test and root test,
+
+## Alternative series test,
+
+## Rearrangements,
+The rearrangement of series is just summed in different order,
+## Multiplication of series,
+
+## Mertens’ theorem
+
+## Power series,
+The definition of power serie, and the convergence of power serie,
+
+
+
+
+
 
 
 
